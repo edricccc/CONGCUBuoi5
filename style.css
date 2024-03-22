@@ -9,11 +9,11 @@
     
     body {
         font-family: Arial, sans-serif;
-        background-color: #ff00d9;
+        background-color: #000000;
         display: grid;
         grid-template-columns: 70% 30%;
         /* Chia trang thành hai cột */
-        max-width: 1200px;
+        max-width: 1500px;
         /* Độ rộng tối đa của trang web */
         margin: 0 auto;
         /* Canh giữa trang web trên màn hình */
@@ -22,8 +22,8 @@
     
     header {
         background-color: #09fecd;
-        color: #fff;
-        padding: 20px;
+        color: #000000;
+        padding: 50px;
         text-align: center;
         grid-column: 1 / span 2;
     }
@@ -31,7 +31,7 @@
     /* Phần menu điều hướng */
     
     nav {
-        background-color: #54ff0b;
+        background-color: #000000;
         color: #fff;
         text-align: center;
         padding: 10px;
