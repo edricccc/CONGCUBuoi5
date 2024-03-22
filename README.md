@@ -3,9 +3,10 @@
 - **Tên:** Tô Thành Đạt
 - **Ngày Sinh:** 15/07/2002
 - **Địa Chỉ:** TP. Thủ Đức, TP. Hồ Chí Minh
-- **Email:** ttdat1507@gmail@gmail.com
+- **Email:** **ttdat1507@gmail.com**
 
 <div align="center">
+
   
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
